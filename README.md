@@ -34,7 +34,7 @@ Method:- POST
 
 Endpoint:- /api/ask
 
-Description:- Sends a query to the chatbot
+Description:- Sends a query to the chatbot and the chatbot returns a answer from the AI Model whose API we have integrated
 
 🛠 Technologies Used
 
